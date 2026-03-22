@@ -12,10 +12,8 @@ Este é meu segundo projeto como desenvolvedora em formação.
 Desenvolvi este projeto com o objetivo de praticar a criação de layouts, organização de código e construção de um portfólio pessoal.
 
 ## 🔄 Evolução
-
-Este projeto será atualizado com:
-
-* Responsividade 📱
+- Layout responsivo implementado 📱
+- Melhorias no CSS 🎨
 
 ## 🔗 Acesse o projeto
 
