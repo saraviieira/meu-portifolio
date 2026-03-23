@@ -22,5 +22,5 @@ https://saraviieira.github.io/meu-portifolio/
 
 ---
 
-✨ Projeto em constante evolução
+
 
