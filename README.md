@@ -19,6 +19,6 @@ Desenvolvi este projeto com o objetivo de praticar a construção de layouts, or
 
 ## 🔗 Acesse o projeto
 
-👉 https://saraviieira.github.io/meu-portifolio/
+👉 https://saraviieira.github.io/landing-page-pessoal/
 
 
