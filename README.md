@@ -1,23 +1,23 @@
-# 💻 Portfólio Front-End - Sara Vieira
+# 💻 Landing Page Pessoal - Sara Vieira
 
-Este é meu segundo projeto como desenvolvedora em formação, focado na criação de um portfólio pessoal moderno, responsivo e bem estruturado.
+Este é um projeto de **landing page pessoal**, desenvolvido com foco na construção de uma interface moderna, responsiva e bem estruturada.
 
 ## 🚀 Tecnologias utilizadas
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 
 ## 📌 Sobre o projeto
 
-Desenvolvi este projeto com o objetivo de praticar a construção de layouts, organização de código e boas práticas de desenvolvimento front-end, incluindo responsividade e acessibilidade.
+Este projeto foi desenvolvido com base nos aprendizados adquiridos em um curso de desenvolvimento front-end, com o objetivo de praticar a criação de layouts, organização de código e aplicação de boas práticas, incluindo responsividade e acessibilidade.
 
-## 🔄 Atualizações
+## 🔄 Melhorias implementadas
 
-* Layout responsivo implementado 📱
-* Melhorias no CSS 🎨
-* Ajustes de acessibilidade (uso de `alt` e `aria-label`) ♿
+* Layout responsivo 📱
+* Estilização aprimorada com CSS 🎨
+* Uso de atributos de acessibilidade (alt e aria-label) ♿
 
-## 🔗 Acesse o projeto
+## 🌐 Acesse o projeto
 
 👉 https://saraviieira.github.io/landing-page-pessoal/
 
